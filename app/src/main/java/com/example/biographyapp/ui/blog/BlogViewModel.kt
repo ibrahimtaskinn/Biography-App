@@ -4,5 +4,5 @@ import androidx.lifecycle.ViewModel
 import javax.inject.Inject
 
 class BlogViewModel @Inject constructor() : ViewModel() {
-    val blogUrl = "https://github.com/itaskinn"
+    val blogUrl = "https://github.com/ibrahimtaskinn"
 }
